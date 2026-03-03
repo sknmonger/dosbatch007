@@ -1,5 +1,6 @@
 ::Playlist in Dos assisted by Gemini Ai in 30 minutes
-::No preperation
+::No preperation Game Over Finished Programme 15:00 pass 30:00 debugging
+:: Problem () in Same line rather than new line. Program Worked and debugged total 1 hour more or less... 
 
 echo off
 title Playlist Majos Music
@@ -91,6 +92,7 @@ exit
     echo Choose again...
     goto menu
 )
+
 
 
 
