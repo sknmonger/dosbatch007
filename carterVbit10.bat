@@ -3,8 +3,9 @@ echo off
 echo song titles  
 echo this file is for the system of carter Vas for Bit 10 inclusive only. 
 echo ┌Album Tracksm Titles┐
-echo _______________________________________________
-echo ┌1.I love you dwayne┐
+echo _____________________
+echo ┌********************┐
+ echo 1.I love you dwayne
  echo 2.Don't Cry
  echo 3. Dedicate
  echo 4.Uproar
@@ -36,11 +37,12 @@ echo ┌1.I love you dwayne┐
  set bit10=carterV
  echo %bit10%
 
+start https://youtu.be/9_ZM5xYfoXM?si=_-NAvNqtYhppKj0S
 
 type nul > Yourresponse.html
 type nul > EminemorLilWayne.html
 type nul > isEZmilGonnabeDat.html
-type nul > Drakeis?.html
+type nul > Drakeis.html
 type nul > CashmoneyYoungMoney.html
 type nul > DuplicateUrMooolah.html
 type nul > ItsEmptyWriteSome.html
